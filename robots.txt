@@ -1,5 +1,3 @@
 User-agent: *
-Host: 
-Host: 
-Host: 
-Host: www.donbass25.ru
+Sitemap: http://donbass25.ru/sitemap.xml
+Host: donbass25.ru
