@@ -1,3 +1,2 @@
 User-agent: *
-Sitemap: http://donbass25.ru/sitemap.xml
-Host: donbass25.ru
+Allow: /
