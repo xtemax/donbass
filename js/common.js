@@ -33,12 +33,7 @@ $(document).ready(function(){
 		};
 	};
 	
-	/*const mediaQuery = window.matchMedia('(max-width: 768px)')
-			if (mediaQuery.matches) {
-  			return;
-		}*/
-
-    $('.menu-burger').click(function() {
+$('.menu-burger').click(function() {
         $('.menu-burger, menu, .logo').toggleClass('open-menu');
         $('body').toggleClass('fixed-page');
     });
