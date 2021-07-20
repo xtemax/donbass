@@ -1,0 +1,41 @@
+/* font-family: "RobotoRegular"; */
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+	url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+}
+
+
+
+
+
+/* font-family: "PlayfairRegular"; */
+@font-face {
+	font-family: "PlayfairRegular";
+	font-style: normal;
+	font-weight: normal;
+	src: local('PlayfairRegular'),
+		url('../fonts/PlayfairRegular/Playfairdisplayregular.woff2') format('woff2'), 
+		url('../fonts/PlayfairRegular/Playfairdisplayregular.woff') format('woff'),
+		url('../fonts/PlayfairRegular/Playfairdisplayregular.ttf') format('ttf');
+	    font-display: swap;	
+}
+
+
+
+/* font-family: "PlayfairBold"; */
+@font-face {
+	font-family: "PlayfairBold";
+	font-style: normal;
+	font-weight: normal;
+	src: local('PlayfairBold'),
+		url('../fonts/PlayfairBold/Playfairdisplaybold.woff2') format('woff2'), 
+		url('../fonts/PlayfairBold/Playfairdisplaybold.woff) format('woff'),
+		url('../fonts/PlayfairBold/Playfairdisplaybold.ttf') format('ttf');
+		font-display: swap;
+}
